@@ -1,4 +1,4 @@
-package mobile.contratodigital.fotoshop.util;
+package br.com.x10d.fotoshop.util;
 
 import android.content.Context;
 import android.view.Gravity;
@@ -6,7 +6,7 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.AbsListView.LayoutParams;
-import mobile.contratodigital.fotoshop.listener.MeuOnLongClickListener;
+import br.com.x10d.fotoshop.listener.MeuOnLongClickListener;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 

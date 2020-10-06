@@ -1,4 +1,4 @@
-package mobile.contratodigital.fotoshop.listener;
+package br.com.x10d.fotoshop.listener;
 
 import android.content.ClipDescription;
 import android.content.Context;
@@ -10,9 +10,9 @@ import android.view.View.OnDragListener;
 import android.widget.FrameLayout;
 import android.widget.AbsListView.LayoutParams;
 import android.widget.ImageView;
-import br.com.extend.fotoshop.R;
-import mobile.contratodigital.fotoshop.util.StatusMemoria;
-import mobile.contratodigital.fotoshop.util.TelaBuilder;
+import br.com.x10d.fotoshop.R;
+import br.com.x10d.fotoshop.util.StatusMemoria;
+import br.com.x10d.fotoshop.util.TelaBuilder;
 
 	public class MeuOnDragListener implements OnDragListener {
 	

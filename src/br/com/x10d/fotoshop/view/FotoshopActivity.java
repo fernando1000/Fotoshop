@@ -1,4 +1,4 @@
-package mobile.contratodigital.fotoshop.view;
+package br.com.x10d.fotoshop.view;
 
 import java.util.ArrayList;
 import android.Manifest;
@@ -27,14 +27,14 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.Toast;
-import br.com.extend.fotoshop.R;
-import mobile.contratodigital.fotoshop.listener.MeuOnDragListener;
-import mobile.contratodigital.fotoshop.util.DiminuiMBimagens;
-import mobile.contratodigital.fotoshop.util.Equipamento;
-import mobile.contratodigital.fotoshop.util.ListaComTodasImageViews;
-import mobile.contratodigital.fotoshop.util.TrabalhaComFotos;
-import mobile.contratodigital.fotoshop.util.Utilitario;
-import mobile.contratodigital.fotoshop.util.TelaBuilder;
+import br.com.x10d.fotoshop.R;
+import br.com.x10d.fotoshop.listener.MeuOnDragListener;
+import br.com.x10d.fotoshop.util.DiminuiMBimagens;
+import br.com.x10d.fotoshop.util.Equipamento;
+import br.com.x10d.fotoshop.util.ListaComTodasImageViews;
+import br.com.x10d.fotoshop.util.TelaBuilder;
+import br.com.x10d.fotoshop.util.TrabalhaComFotos;
+import br.com.x10d.fotoshop.util.Utilitario;
 
 public class FotoshopActivity extends Activity {
 

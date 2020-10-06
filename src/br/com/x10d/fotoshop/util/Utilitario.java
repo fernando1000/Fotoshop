@@ -1,4 +1,4 @@
-package mobile.contratodigital.fotoshop.util;
+package br.com.x10d.fotoshop.util;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,7 +9,7 @@ import android.content.DialogInterface;
 import android.widget.ArrayAdapter;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
-import br.com.extend.fotoshop.R;
+import br.com.x10d.fotoshop.R;
 
 public class Utilitario {
 

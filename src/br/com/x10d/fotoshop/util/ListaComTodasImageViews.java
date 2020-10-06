@@ -1,8 +1,8 @@
-package mobile.contratodigital.fotoshop.util;
+package br.com.x10d.fotoshop.util;
 
 import java.util.ArrayList;
 import java.util.List;
-import br.com.extend.fotoshop.R;
+import br.com.x10d.fotoshop.R;
 
 public class ListaComTodasImageViews {
 

@@ -1,4 +1,4 @@
-package mobile.contratodigital.fotoshop.util;
+package br.com.x10d.fotoshop.util;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
